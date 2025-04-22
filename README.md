@@ -15,12 +15,11 @@
 - **Dart**
 - **QR Code Scanner**
 - **Elliptic Curve Cryptography (P-256 / ECDSA)**
-- **REST API** (for license data verification with Django backend)
 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/quick-license-mobile-verifier.git
+git clone https://github.com/ashish769/quick-license-mobile-verifier.git
 cd quick-license-mobile-verifier
 flutter pub get
 flutter run
